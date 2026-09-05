@@ -72,11 +72,11 @@ The dashboard includes important sales KPIs such as:
 
 ### 1. Sales Overview
 
-![Sales Overview][(screenshots/sales_overview.png](https://github.com/rehanmuzammal/saless/blob/main/Screenshot%202026-09-03%20115315.png)
+[Sales Overview](screenshots/sales_overview.png](https://github.com/rehanmuzammal/saless/blob/main/Screenshot%202026-09-03%20115315.png)
 
 ### 2. Sales Performance
 
-![Sales Performance](screenshots/sales_performance.png)
+![Sales Performance](https://github.com/rehanmuzammal/saless/blob/main/Screenshot%202026-09-03%20115406.png)
 
 ### 3. Product Analysis
 
